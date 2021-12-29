@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Icons/Copy.bmp</file>
+        <file>Icons/Cut.bmp</file>
+        <file>Icons/DeleteSticky.bmp</file>
+        <file>Icons/New.bmp</file>
+        <file>Icons/Open.bmp</file>
+        <file>Icons/Paste.bmp</file>
+        <file>Icons/Save.bmp</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>Application_Icon_48.png</file>
+        <file>depositphotos_4288199-stock-photo-modern-studio-background.jpg</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>Digital Dismay.otf</file>
+    </qresource>
+</RCC>
